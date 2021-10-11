@@ -1,0 +1,237 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "HSYNC",
+					"strict" : false
+				},
+				{
+					"name" : "VSYNC",
+					"strict" : false
+				},
+				{
+					"name" : "blank",
+					"strict" : false
+				},
+				{
+					"name" : "clk_out_clk",
+					"strict" : false
+				},
+				{
+					"name" : "adc_sclk",
+					"strict" : false
+				},
+				{
+					"name" : "adc_din",
+					"strict" : false
+				},
+				{
+					"name" : "adc_convst",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[0]",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[1]",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[2]",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[3]",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[4]",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[5]",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[6]",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[7]",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[8]",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[9]",
+					"strict" : false
+				},
+				{
+					"name" : "stagetest[10]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_sample_accumulator_LED[0]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_sample_accumulator_LED[1]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_sample_accumulator_LED[2]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_sample_accumulator_LED[3]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_sample_accumulator_LED[4]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_sample_accumulator_LED[5]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_sample_accumulator_LED[6]",
+					"strict" : false
+				},
+				{
+					"name" : "R[0]",
+					"strict" : false
+				},
+				{
+					"name" : "R[1]",
+					"strict" : false
+				},
+				{
+					"name" : "R[2]",
+					"strict" : false
+				},
+				{
+					"name" : "R[3]",
+					"strict" : false
+				},
+				{
+					"name" : "R[4]",
+					"strict" : false
+				},
+				{
+					"name" : "R[5]",
+					"strict" : false
+				},
+				{
+					"name" : "R[6]",
+					"strict" : false
+				},
+				{
+					"name" : "R[7]",
+					"strict" : false
+				},
+				{
+					"name" : "G[0]",
+					"strict" : false
+				},
+				{
+					"name" : "G[1]",
+					"strict" : false
+				},
+				{
+					"name" : "G[2]",
+					"strict" : false
+				},
+				{
+					"name" : "G[3]",
+					"strict" : false
+				},
+				{
+					"name" : "G[4]",
+					"strict" : false
+				},
+				{
+					"name" : "G[5]",
+					"strict" : false
+				},
+				{
+					"name" : "G[6]",
+					"strict" : false
+				},
+				{
+					"name" : "G[7]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "B[5]",
+					"strict" : false
+				},
+				{
+					"name" : "B[6]",
+					"strict" : false
+				},
+				{
+					"name" : "B[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RST",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "triggerpin",
+					"strict" : false
+				},
+				{
+					"name" : "functionswitch",
+					"strict" : false
+				},
+				{
+					"name" : "adc_dout",
+					"strict" : false
+				},
+				{
+					"name" : "H1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "H1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "H1[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
